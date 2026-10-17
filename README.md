@@ -1,7 +1,7 @@
 # Super duper first build of Aetlis.io an Ogarcpp / OgarII Modification
 
 
-# Since this project is kinda half dead i would like to make it public, its super clean and optimized!!
+# Since this project is kinda half ded i wanted to make it public, its super clean and optimized ahh memoriess!!
 
 ## Features
 * Complete: Pretty much everything in OgarII besides team mode.
